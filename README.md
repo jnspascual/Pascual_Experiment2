@@ -29,6 +29,7 @@ mean #display the mean of the array
 data = x #Assign x to data
 
 norm = (data-mean)/std #Use the formula for normalization by subtracting the data and mean then dividing it to the standard deviation
+
 norm #Display the computed norm from the array
 
 np.save('X_normalized.npy', x) #Save the result to the disk
