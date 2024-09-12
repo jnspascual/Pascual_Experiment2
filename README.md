@@ -1,9 +1,19 @@
 **EXPERIMENT 2: NUMERICAL PYTHON (NUMPY)**
+
 Jasmine Nicole S. Pascual
+
 2ECE-B
+
 September 2, 2024
 
-**Normalization Problem**
+**I. Intended Learning Outcomes:**
+1. To identify the codes and functions incorporated in the Numpy library
+2. To be able to apply and use the different codes and functions in creating a Python program using a Numpy library
+
+**Instructions:**
+Write a Python script/code in the Jupyter Notebook to do the given problems. You may submit your Jupyter notebook in the dedicated submission bin.
+
+**NORMALIZATION PROBLEM**
 
 import numpy as np #Access the NumPy library
 
@@ -24,7 +34,7 @@ norm #Display the computed norm from the array
 np.save('X_normalized.npy', x) #Save the result to the disk
 
 
-**Divisible by 3 Problem**
+**DIVISIBLE BY 3 PROBLEM**
 
 import numpy as np #Access the NumPy library
 
